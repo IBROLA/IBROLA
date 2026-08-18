@@ -2,9 +2,9 @@
 
 <br>
 
-![Github Stats](https://stats.justsong.cn/api/github?username=IBROLA&theme=dark)
+![Github Stats](https://vercel-github-stats.vercel.app/api?username=IBROLA&count_private=true&include_all_commits=true)
 
-![Top Langs](https://stats.justsong.cn/api/github?username=IBROLA&theme=dark&top_langs=true&langs_count=10&layout=compact)
+![Top Langs](https://vercel-github-stats.vercel.app/api/top-langs/?username=IBROLA&layout=compact&langs_count=10)
 
 #
 
